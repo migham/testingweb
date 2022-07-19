@@ -1,4 +1,4 @@
-# Git desde cero con EDteam
+# Este es un repo para hacer ensayos sobre git y github
 Iniciamos curso de git desde cero 
 
 Temario:
